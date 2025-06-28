@@ -1,4 +1,5 @@
 👋 Hi there, I'm Anima!
+
 🚀 About Me
 I'm a passionate Software Developer with a keen interest in building practical applications that simplify everyday tasks and enhance learning. I love to bring ideas to life through code and continuously explore new technologies.
 
@@ -28,29 +29,16 @@ Technologies used: React, Node.js, Express.js, MongoDB, JWS Tokens, Github Integ
 https://github.com/Anima0601/codexIQ | 
 
 🛠️ Skills & Technologies
-Category
 
-Technologies
+Languages : Python, C, Javascript, Java
 
-Languages
+Frontend : React, Bootstrap, HTML, CSS, Tailwind CSS, DaisyUI
 
-Python, C, Javascript, Java
+Backend : Node.js, Express.js
 
-Frontend
+Databases : MongoDB, MySQL, Firestore,
 
-React, Bootstrap, HTML, CSS, Tailwind CSS, DaisyUI
-
-Backend
-
-Node.js, Express.js
-
-Databases
-
- MongoDB, MySQL, Firestore,
-
-Tools
-
-Git, GitHub, VS Code, Postman
+Tools : Git, GitHub, VS Code, Postman
 
 
 🤝 Connect with Me
